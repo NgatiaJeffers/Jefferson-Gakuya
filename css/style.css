@@ -25,6 +25,11 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Open Sans", Arial, sans-serif;
 }
 
+ol, p, ul {
+  margin-bottom: 30px;
+  color: #BF7417;
+}
+
 h1 {
   font-size: 46px;
 }
@@ -2318,3 +2323,5 @@ section[data-section="menu"] {
     max-width: 100%;
   }
 }
+
+
